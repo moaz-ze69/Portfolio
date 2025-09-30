@@ -23,7 +23,7 @@ To personalize your portfolio, edit the data in "/app/utils.constant.ts" accordi
 3. Once the dependencies are installed, run `npm run dev` to start the development server. If you're using Yarn, run `yarn run dev`.
 
 ## Contributing
-We welcome contributions from the community! If you'd like to contribute to AhsanDev404 Portfolio Website, please follow the guidelines outlined in the CONTRIBUTING.md file.
+We welcome contributions from the community! If you'd like to contribute to Muhammad Moaz Ahmed Portfolio Website, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 ## License
 Muhammad Moaz Ahmed Portfolio Website is licensed under the [license type]. See the LICENSE file for more details.
