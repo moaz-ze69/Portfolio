@@ -1,10 +1,10 @@
-# AhsanDev404 Portfolio Website
+# Muhammad Moaz Ahmed Portfolio Website
 
 ## Introduction
-AhsanDev404 Portfolio Website is a Next.js web application designed for developers to create and customize their own portfolio websites easily. By simply editing the data in "/app/utils.constant.ts", developers can personalize the content to reflect their own skills, projects, and experiences.
+Muhammad Moaz Ahmed Portfolio Website is a Next.js web application designed for developers to create and customize their own portfolio websites easily. By simply editing the data in "/app/utils.constant.ts", developers can personalize the content to reflect their own skills, projects, and experiences.
 
 ## Usage
-To use AhsanDev404 Portfolio Website:
+To use Muhammad Moaz Ahmed Portfolio Website:
 
 1. Download the code and unzip the file.
 2. Open your terminal and navigate to the project directory.
@@ -31,4 +31,4 @@ AhsanDev404 Portfolio Website is licensed under the [license type]. See the LICE
 ## Contact
 If you have any questions, concerns, or suggestions, please feel free to contact us at [your email address].
 
-Thank you for using AhsanDev404 Portfolio Website! We hope it helps you showcase your skills and projects effectively.
+Thank you for using Muhammad Moaz Ahmed Portfolio Website! We hope it helps you showcase your skills and projects effectively.
