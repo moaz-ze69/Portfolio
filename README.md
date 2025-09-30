@@ -26,7 +26,7 @@ To personalize your portfolio, edit the data in "/app/utils.constant.ts" accordi
 We welcome contributions from the community! If you'd like to contribute to AhsanDev404 Portfolio Website, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 ## License
-AhsanDev404 Portfolio Website is licensed under the [license type]. See the LICENSE file for more details.
+Muhammad Moaz Ahmed Portfolio Website is licensed under the [license type]. See the LICENSE file for more details.
 
 ## Contact
 If you have any questions, concerns, or suggestions, please feel free to contact us at [your email address].
